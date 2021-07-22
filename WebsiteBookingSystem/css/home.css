@@ -189,17 +189,17 @@ section img#dice
 
 .card#boardgame
 {
-    background-image: url(/assets/images/home/boardgame.jpg);
+    background-image: url(/WebsiteBookingSystem/assets/images/home/boardgame.jpg);
 }
 
 .card#karaoke
 {
-    background-image: url(/assets/images/home/karaoke-mic.jpg);
+    background-image: url(/WebsiteBookingSystem/assets/images/home/karaoke-mic.jpg);
 }
 
 .card#contactus
 {
-    background-image: url(/assets/images/home/contactus.jpg);
+    background-image: url(/WebsiteBookingSystem/assets/images/home/contactus.jpg);
 }
 
 
